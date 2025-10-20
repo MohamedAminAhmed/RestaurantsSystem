@@ -1,8 +1,7 @@
-🚀 ASP.NET Core 8 Web API — Clean Architecture + Identity + Azure CI/CD
+🚀 ASP.NET Core 8 Web API — Clean Architecture
 A complete .NET 8 Web API project built using Clean Architecture, CQRS, ASP.NET Identity, EF Core, MediatR, and deployed using CI/CD pipelines to Azure App Service & SQL.
 
-📚 Tech Stack
-.NET 8 Web API
+
 
 Clean Architecture (Domain → Application → Infrastructure → API)
 
@@ -29,10 +28,7 @@ Azure App Service + Azure SQL for deployment
 │   ├── Application
 │   ├── Infrastructure
 │   ├── WebApi
-├── tests
-│   ├── UnitTests
-│   ├── IntegrationTests
-🔐 Authentication & Authorization
+
 JWT Token-based Authentication
 
 Role-based Authorization
@@ -80,7 +76,4 @@ Azure pipeline logs
 
 Identity system in action
 
-👨‍💻 Author
-Hossam Hosny
-.NET Backend Developer
-LinkedIn : www.linkedin.com/in/hossam-hosny-b5ba7622b
+
